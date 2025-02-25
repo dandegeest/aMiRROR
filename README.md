@@ -1,4 +1,11 @@
 # aMiRROR
-An Interactive AI Mirror Experience
+An Interactive AI Mirror Experience Art Installation inspired by Krea AI RealTime
 
-![Alt text](assets/concept/Screenshot 2025-02-25 101925.png?raw=true "Title")
+![Concept Art](assets/concept/concept.png?raw=true "Concept")
+
+|Source|Result - Prompt: "Minion"|
+|-|-------------|
+| <img src="assets/concept/sourceDD1.jpg" width="400" />| ![AI Transformation to a Minion](assets/concept/minion.png?raw=true "Minion") |
+
+
+
